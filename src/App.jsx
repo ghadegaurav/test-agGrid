@@ -10,7 +10,7 @@ function App() {
   // Column Definitions
   const columnDefs = [
     { headerName: "Event", field: "time" },
-    { headerName: "Vaishnavi", field: "col1" },
+    { headerName: "col1", field: "col1" },
     { headerName: "Column 2", field: "col2" },
     { headerName: "Column 3", field: "col3" },
     { headerName: "Column 4", field: "col4" },
